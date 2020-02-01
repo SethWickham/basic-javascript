@@ -1,9 +1,9 @@
-//run code: node functions.js
+//run code: node basicFunctions.js
 
 //declaring function
 // inside of parens are parameters
 function addingThree(a, b, c) {
-  //function body inside of the curly brackets
+  //function body inside of curly brackets
   return a + b + c;
 }
 //console log: calling the function and passing the arguments: 1, 2, 4
