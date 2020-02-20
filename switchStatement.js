@@ -4,6 +4,7 @@
 // is not TYPE specific in Javascript
 //therefore, we can pass a string and
 //a number and the code will still run
+
 function switchIt(val) {
   var openDoor = '';
   switch (val) {
